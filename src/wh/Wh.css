@@ -1,0 +1,37 @@
+body{
+  background-color: #fefecc;
+}
+
+.General {
+  padding: 5px 135px;
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 70px;
+  text-align: center;
+  background-color: white;
+}
+
+.box {
+  padding: 25px 35px;
+  width: 400px;
+  text-align: left;
+  background-color: white;
+}
+
+.words {
+  font-family: sans-serif;
+  user-select: none;
+  cursor: pointer;
+  color: #02475e; 
+}
+
+.Blocks {
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+  justify-items: center;
+  width: 1050px;
+  margin-left: 29%;
+  margin-top: 35px;
+}
+
